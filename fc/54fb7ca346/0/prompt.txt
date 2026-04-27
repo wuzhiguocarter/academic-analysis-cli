@@ -1,0 +1,25 @@
+/cli-anything 将/Users/wuzhiguo/projects/kb-ai-crm-ui-ux/cli中学术搜索相关的功能迁移到这个独立的项目
+
+---
+
+写一个.gitignore
+
+---
+
+/zcf:git-commit 合并一次性提交
+
+---
+
+README内容提到根目录
+
+---
+
+项目根目录没有readme
+
+---
+
+@SCHOLAR.md 内容合并 项目根目录 README.md
+
+---
+
+帮我安装该命令行到系统目录, 能够直接使用命令行
